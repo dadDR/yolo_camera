@@ -9,6 +9,7 @@
 - 其余相关依赖需要参考requments.txt
 - 在安装完相关依赖后进入目录运行 python3 yolov10.py 即可运行
 
+
 # 感谢
 - 该项目在源代码和算法方面使用了下列方案，在此表示感谢
 - yolov10（https://github.com/THU-MIG/yolov10）
