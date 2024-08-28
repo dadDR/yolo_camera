@@ -8,6 +8,7 @@
 - 该项目使用usb摄像头和opencv，需要下载opencv 和 serial python依赖 , 在瑞芯微RKNN平台上运行需要引入rknnlite
 - 其余相关依赖需要参考requments.txt
 - 在安装完相关依赖后进入目录运行 python3 yolov10.py 即可运行
+- 项目主要运行代码在yolov10.py中
 
 
 # 感谢
