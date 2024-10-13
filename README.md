@@ -1,4 +1,32 @@
 # yolo_camera
+- yolo_camera is a project based on the YOLO object recognition algorithm. It can use a camera to visually track and lock onto the user, allowing the hardware platform to follow the user.
+
+# Hardware Platform
+- See project images and demonstration videos.
+
+# Instructions
+- This project uses a USB camera and OpenCV. You need to download OpenCV and the serial Python dependencies. For running on the Rockchip RKNN platform, the rknnlite library is required.
+- Other related dependencies can be found in the requirements.txt file.
+- After installing the necessary dependencies, navigate to the directory and run `python3 yolov10.py` to start the project.
+- The main code for the project runs in `yolov10.py`.
+
+# Contact Information
+- QQ: 2867191922
+- WeChat (weixin): zjq15396069991
+- Email: zhujiaqi@tiangong.edu.cn
+
+# Acknowledgements
+- This project uses the following resources for source code and algorithms, and we express our gratitude:
+  - yolov10 (https://github.com/THU-MIG/yolov10)
+- The following hardware was used in this project:
+  - fashionstar servos (official website: https://fashionrobo.com/)
+
+
+
+
+
+
+# yolo_camera
 - yolo_camera 是一个基于yolo目标识别算法的项目，它可以按照它能够使用摄像头对使用者进行视觉跟随和锁定，进而让硬件平台可以跟随使用者。
 
 # 硬件平台
